@@ -24,3 +24,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Görsel](https://blotcdn.com/blog_c4a729f3205a44e5a9669523ddfb8b2e/_image_cache/16194ad7-044b-439c-9539-6dbf9f5df2c6.png)
